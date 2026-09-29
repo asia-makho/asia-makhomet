@@ -31,8 +31,6 @@ I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate abou
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌱 Currently learning:
-- ** ** 
 
 ### ⚡ Fun fact:
 I love finding the connection between different fields, whether it's understanding the etymology of words or figuring out how to animate math formulas with code! 🐢❤️
