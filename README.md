@@ -32,8 +32,7 @@ I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate abou
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌱 Currently learning:
-- **Advanced C++ (OOP):** Structuring projects, managing header files, and implementing class hierarchies.
-- How to write clean, structured code and manage projects with Git & GitHub.
+- ** ** 
 
 ### ⚡ Fun fact:
 I love finding the connection between different fields, whether it's understanding the etymology of words or figuring out how to animate math formulas with code! 🐢❤️
